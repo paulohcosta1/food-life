@@ -1,0 +1,3 @@
+[submodule "food-life-foods"]
+	path = food-life-foods
+	url = https://github.com/paulohcosta1/food-life-foods.git
